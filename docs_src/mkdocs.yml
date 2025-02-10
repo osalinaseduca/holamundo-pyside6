@@ -4,3 +4,5 @@ docs_dir: 'docs_src'
 site_dir: 'docs'
 nav:
   - Inicio: README.md
+  - About: ABOUT.md
+  theme:  readthedocs
